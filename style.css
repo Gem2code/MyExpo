@@ -1,7 +1,23 @@
 body{
     background-color: #FFEAFE;
     color: #553C8B;
+    text-align: center;
 }
 img{
     border-radius: 20px ;
+}
+
+div{
+    width: 50%;
+    margin: auto;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+}
+
+p{
+    display: inline-block;
+    text-align: justify;
 }
